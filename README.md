@@ -12,7 +12,7 @@ You must have a:
 -Arduino ATmega32u4
 then you solder NodeMcu V3 and Arduino ATmega32u4 to the pcb.
 
-# Sowtware for hardware (NODEMCU & ARDUINO)
+# Software for hardware (NODEMCU & ARDUINO)
 
 Tutorial for downloadning and setting up software:
 https://youtu.be/VQAzxBefLZo
